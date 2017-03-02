@@ -38,6 +38,7 @@ public class ArithmeticOperators {
     public static void addTwoIntegers() {
 
         // todo: add two integers together and print them out.
+        System.out.println(3+4);
 
     }
 
@@ -50,6 +51,7 @@ public class ArithmeticOperators {
     public static void addThreeIntegers() {
 
         // todo: add three integers together and print the result.
+        System.out.println(3+4+6);
 
     }
 
@@ -63,6 +65,7 @@ public class ArithmeticOperators {
     public static void addTwoDoubles() {
 
         // todo: add two doubles together and print out the result.
+        System.out.println(3.2+34.4);
 
     }
 
@@ -74,6 +77,7 @@ public class ArithmeticOperators {
     public static void addThreeDoubles() {
 
         // todo: add three doubles together and print out the result.
+        System.out.println(23.4+23.4+23.4);
 
     }
 
@@ -88,7 +92,7 @@ public class ArithmeticOperators {
     public static void addANegativeAndPositiveNumber() {
 
         // todo: add and print a negative number and a positive number
-
+        System.out.println(-34+34);
     }
 
     /**
@@ -99,6 +103,7 @@ public class ArithmeticOperators {
     public static void addIntegerAndDouble() {
 
         // todo: add together and print out an integer and a double
+        System.out.println(23+34.3);
     }
 
     /**
@@ -110,6 +115,7 @@ public class ArithmeticOperators {
     public static void subtractTwoNumbers() {
 
         // todo: subtract two numbers and print the result
+        System.out.println(453-345);
 
     }
 
@@ -122,6 +128,7 @@ public class ArithmeticOperators {
     public static void subtractThreeNumbers() {
 
         // todo: subtract three numbers and print the result
+        System.out.println(23-23-54);
     }
 
     /**
@@ -133,7 +140,7 @@ public class ArithmeticOperators {
     public static void subtractANegativeAndPositiveNumber() {
 
         // todo: subtract a negative and positive number
-
+        System.out.println(-98-98);
     }
 
     /**
@@ -145,6 +152,7 @@ public class ArithmeticOperators {
     public static void combineAdditionAndSubtractionWithThreeNumbers() {
 
         // todo: add and subtract three numbers
+        System.out.println(3+4-5);
 
     }
 
@@ -157,6 +165,7 @@ public class ArithmeticOperators {
     public static void multiplyTwoNumbers() {
 
         // todo: multiply two numbers
+        System.out.println(4*5);
 
     }
 
@@ -168,6 +177,7 @@ public class ArithmeticOperators {
     public static void multiplyThreeNumbers() {
 
         // todo: multiply three numbers
+        System.out.println(5*6*3);
     }
 
     /**
@@ -179,6 +189,7 @@ public class ArithmeticOperators {
     public static void divideTwoIntegers() {
 
         // todo: divide two integers
+        System.out.println(6/5);
 
     }
 
@@ -190,6 +201,7 @@ public class ArithmeticOperators {
     public static void divideThreeIntegers() {
 
         // todo: divide three integers
+        System.out.println(9/67/4);
 
     }
 
@@ -201,6 +213,7 @@ public class ArithmeticOperators {
     public static void divideTwoDoubles() {
 
         // todo: divide two doubles
+        System.out.println(65.8/45.6);
 
     }
 
@@ -212,6 +225,7 @@ public class ArithmeticOperators {
     public static void divideThreeDoubles() {
 
         // todo: divide three numbers
+        System.out.println(35.4/343.54/3.4);
 
     }
 
@@ -223,6 +237,7 @@ public class ArithmeticOperators {
     public static void divideIntegerByDouble() {
 
         // todo: divide an integer by a double
+        System.out.println(5/3.2);
 
     }
 
@@ -234,6 +249,7 @@ public class ArithmeticOperators {
     public static void divideDoubleByInteger() {
 
         // todo: divide a double by an integer
+        System.out.println(54.4/3);
 
     }
 
@@ -247,6 +263,7 @@ public class ArithmeticOperators {
     public static void remainderOfDividingTwoIntegers() {
 
         // todo: print the remainder of dividing two integers
+        System.out.println(25%4);
     }
 
     /**
@@ -263,6 +280,7 @@ public class ArithmeticOperators {
     public static void combineAllFiveOperatorsWithParenthesisAndNegativeAndPositiveIntegersAndDoubles() {
 
         // todo: write a complex expression
+        System.out.println(-5*(23.4+6/(10-3%2)));
 
     }
 
